@@ -13,7 +13,7 @@ Web para alojar los materiales que usaremos en el [Bloque 3 (EXcel)]{.underline}
 
 - [Slides 00: Presentación](./slides/slides_00_TICs_presentacion.html){target="_blank"}
 
-- [Slides 01: Intro a Excel](./slides/slides_01_TICs_intro-a-excel.html){target="_blank"}
+- [Slides 01: Intro a Excel](./slides/slides_01_TICs_intro-a-excel_small.html){target="_blank"}
 
 
 <br>
