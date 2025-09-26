@@ -27,7 +27,12 @@ Web para alojar los materiales que usaremos en el [Bloque 3 (EXcel)]{.underline}
 [(y [Guión 01](./guiones_mios/guion_mio_01.html){target="_blank"})]{.small90}
 
 
-- [Plantilla 02](./plantillas/plantilla_02_visitantes-x.destino.xlsx){target="_blank"}
+- [Plantilla 02](./plantillas/plantilla_02_visitantes-x-destino.xlsx){target="_blank"}
+
+
+- [Plantilla 03](./plantillas/plantilla_03_tesoreria.xlsx){target="_blank"}
+
+
 
 
 
