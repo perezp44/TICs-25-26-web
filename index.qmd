@@ -22,7 +22,7 @@ Web para alojar los materiales que usaremos en el [Bloque 3 (EXcel)]{.underline}
 ## 2. Plantillas [(y guiones)]{.small90}
 
 - [Plantilla 01](./plantillas/plantilla_01_agencia-viajes.xlsx){target="_blank"} &emsp;  &emsp;
-[(y [Guión 01](./guiones_mios/guion_mio_01.html){target="_blank"})]{.small90}
+[(y [Guión 01](./guiones_mios/guion_mio_01.html){target="_blank"})]{.small90}   &emsp;  &emsp;  &emsp;  &emsp;       [[ & [Plantilla 01 (empezada)](./plantillas/plantilla_01xx_agencia-viajes_.xlsx){target="_blank"}]{.small90} ]
 
 
 - [Plantilla 02](./plantillas/plantilla_02_visitantes-x-destino.xlsx){target="_blank"} &emsp;  &emsp;
@@ -33,10 +33,6 @@ Web para alojar los materiales que usaremos en el [Bloque 3 (EXcel)]{.underline}
 
 
 - [Plantilla 04](./plantillas/plantilla_04_funciones-condicionales.xlsx){target="_blank"}
-
-
-
-
 
 
 <br>
