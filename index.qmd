@@ -66,7 +66,7 @@ Web para alojar los materiales que usaremos en el [Bloque 3 (EXcel)]{.underline}
 <br>
 
 
-## 4. Exámenes de muestra
+## 4. Exámenes para muestra
 
 - [Exámenes](./plantillas/Examenes_muestra.zip){target="_blank"}
 
